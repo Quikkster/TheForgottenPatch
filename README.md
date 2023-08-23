@@ -45,7 +45,7 @@ _**(not recommended if you want to stay up to date with this mod - we update DAI
 
 # `The Forgotten Patch: Starting Up The Mod`
 ## iW4x:
-* After follow the [Installation Guide](https://github.com/Quikkster/FableAzza/edit/main/README.md#The_Forgotten_Patch-mod-installation-guide-) You can open the mods folder and then the `FableAzza` folder. <br />
+* After follow the [Installation Guide](https://github.com/Quikkster/TheForgottenPatch/tree/main#the-forgotten-patch-mod-installation-guide) You can open the mods folder and then the `FableAzza` folder. <br />
 * Within the `TheForgottenPatch` folder, run the bat file that matches the startup method you would like to use: <br />
 
 ### `!start mod.bat` 
