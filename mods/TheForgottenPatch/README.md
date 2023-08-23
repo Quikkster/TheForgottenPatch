@@ -1,5 +1,9 @@
-# TheForgottenPatch
+# Robert Bowlings' Forgotten Patch Update: Remastered
  A recreation of the forgotten final patch update for Call of Duty: Modern Warfare 2 (2009) that was originally created by Infinity Ward's Community Manager at the time, Robert Bowling. This patch planned to fix many glitches, bugs, exploits & errors, such as One Man Army Noob Tubes, Red Dot Sights being misaligned, MOST of the weapon attachment options causing a huge percentage of weapons to break/unintentionally change in terms of damage, accuracy, range, etc. & much more! This is my rendition of it, enjoy!
+ 
+## Changes Made:
+* FAL: Holographic sight raises minimum damage from 35 to 40. Coupled with Stopping Power, 2 body shots can kill at any distance, even with a silencer.
+
 
 # `@FableServers` 
 ## _"FableServers" is an all new way to experience Call of Duty and it's clients! Our mods support sniping, trickshotting, casual & competitive play, as well as providing public source code to many standalone mods such as our Dolphin Dive, Dead Drop, MW3 Specialist & Survival / Chaos Mode Mods - to just name a few - All built from the ground up by our devs!_
