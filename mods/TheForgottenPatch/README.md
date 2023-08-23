@@ -3,8 +3,9 @@
  
 ## Changes Made So Far:
 _**Weapons**_
-* FAL: Holographic sight raises minimum damage from 35 to 40. Coupled with Stopping Power, 2 body shots can kill at any distance, even with a silencer.
-* M9, M240, MG4: Fix silencer, when shooting you show up on radar still.<br />
+* `FAL`: Fix `Holographic Sight`, raises minimum damage from 35 to 40. Coupled with Stopping Power, 2 body shots can kill at any distance, even with a silencer.
+* `Spas-12`: Fix `FMJ`, had no effect on bullet penetration.
+* `M9`, `M240`, `MG4`: Fix `silencer`, when shooting you show up on radar still.<br />
 
 _**One Man Army**_
 * Disable changing to the same class to exploit ammo refilling
