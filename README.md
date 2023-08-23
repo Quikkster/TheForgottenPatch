@@ -5,13 +5,17 @@
 _**Weapons**_
 * FAL: Holographic sight raises minimum damage from 35 to 40. Coupled with Stopping Power, 2 body shots can kill at any distance, even with a silencer.
 * M9, M240, MG4: Fix silencer, when shooting you show up on radar still.
+_**One Man Army**_
+* Disable changing to the same class to exploit ammo refilling
+* If changing to a class with a grenade launcher, grenade launcher will now be empty
+
 
 # `@FableServers` 
 ## _"FableServers" is an all new way to experience Call of Duty and it's clients! Our mods support sniping, trickshotting, casual & competitive play, as well as providing public source code to many standalone mods such as our Dolphin Dive, Dead Drop, MW3 Specialist & Survival / Chaos Mode Mods - to just name a few - All built from the ground up by our devs!_
 
 If you are having trouble please read all of the documentation i provided, it may be a lot but trust me it is worth it<br />
 
-If this still didn't help, message [ @quikkster ] on Discord * or you can join the server to be able to message us directly ( http://discord.io/quikkster )<br />
+If this still didn't help, message [ @quikkster ] on Discord or you can join the server to be able to message us directly ( http://discord.io/quikkster )<br />
 
 
 ## MOD TEAM:
