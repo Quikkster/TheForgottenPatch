@@ -4,7 +4,8 @@
 ## Changes Made So Far:
 _**Weapons**_
 * FAL: Holographic sight raises minimum damage from 35 to 40. Coupled with Stopping Power, 2 body shots can kill at any distance, even with a silencer.
-* M9, M240, MG4: Fix silencer, when shooting you show up on radar still.
+* M9, M240, MG4: Fix silencer, when shooting you show up on radar still.<br />
+
 _**One Man Army**_
 * Disable changing to the same class to exploit ammo refilling
 * If changing to a class with a grenade launcher, grenade launcher will now be empty
