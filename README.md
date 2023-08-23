@@ -9,8 +9,10 @@ _**Weapons**_
 
 _**One Man Army**_
 * Disable changing to the same class to exploit ammo refilling
-* If changing to a class with a grenade launcher, grenade launcher will now be empty
+* If changing to a class with a grenade launcher, grenade launcher will now be empty<br />
 
+_**Blast Shield**_
+* Decrease explosive damage intake from 65 to 45 while using Blast Shield, making it actually worth using now.
 
 # `@FableServers` 
 ## _"FableServers" is an all new way to experience Call of Duty and it's clients! Our mods support sniping, trickshotting, casual & competitive play, as well as providing public source code to many standalone mods such as our Dolphin Dive, Dead Drop, MW3 Specialist & Survival / Chaos Mode Mods - to just name a few - All built from the ground up by our devs!_
