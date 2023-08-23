@@ -61,8 +61,4 @@ _**(not recommended if you want to stay up to date with this mod - we update DAI
 * skip the iW4x intro cutscene
 * auto launches the mod
 * execs the server config file which sets up all the settings.
-<<<<<<< HEAD
 * **BUT WILL THEN** skip the entire menu / private match setup process and put you straight into a match on the map you chose. (good for if you already have classes set up and want to skip all the extra menu navigation)<br />
-=======
-* **BUT WILL THEN** skip the entire menu / private match setup process and put you straight into a match on the map you chose. (good for if you already have classes set up and want to skip all the extra menu navigation)<br />
->>>>>>> 2881cd06cfa815ed7de29ab9a2915878d9b9ec37
