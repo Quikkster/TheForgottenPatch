@@ -1,0 +1,2 @@
+# TheForgottenPatch
+ A recreation of the forgotten final patch update for Call of Duty: Modern Warfare 2 (2009) that was originally created by Infinity Ward's Community Manager at the time, Robert Bowling. This patch planned to fix many glitches, bugs, exploits & errors, such as One Man Army Noob Tubes, Red Dot Sights being misaligned, MOST of the weapon attachment options causing a huge percentage of weapons to break/unintentionally change in terms of damage, accuracy, range, etc. & much more! This is my rendition of it, enjoy!
