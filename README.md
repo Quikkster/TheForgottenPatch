@@ -4,8 +4,7 @@
 ## Changes Made:
 _**Weapons**_
 * FAL: Holographic sight raises minimum damage from 35 to 40. Coupled with Stopping Power, 2 body shots can kill at any distance, even with a silencer.
-
-
+* M9, M240, MG4: Fix silencer, when shooting you show up on radar still.
 # `@FableServers` 
 ## _"FableServers" is an all new way to experience Call of Duty and it's clients! Our mods support sniping, trickshotting, casual & competitive play, as well as providing public source code to many standalone mods such as our Dolphin Dive, Dead Drop, MW3 Specialist & Survival / Chaos Mode Mods - to just name a few - All built from the ground up by our devs!_
 
