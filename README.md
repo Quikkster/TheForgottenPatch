@@ -11,6 +11,12 @@ _**One Man Army**_
 * Disable changing to the same class to exploit ammo refilling
 * If changing to a class with a grenade launcher, grenade launcher will now be empty<br />
 
+_**Removed Perks & Deathstreaks**_
+* Last Stand
+* Final Stand
+* Martyrdom
+* Painkiller (Converted into `Juiced` from Modern Warfare 3)
+
 _**Blast Shield**_
 * Decrease explosive damage intake from 65 to 45 while using Blast Shield, making it actually worth using now.
 
